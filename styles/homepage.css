@@ -1,0 +1,28 @@
+.main {
+    background-image: url("/images/trenchcoat-hero-t.jpg.webp");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+  }
+
+  .left {
+  font-size: 50px;
+  position: center center;
+  }
+  
+  .button {
+    display: flex;
+    border-radius: 1vw;
+    justify-content: center;
+    font-size: 30px;
+    background-color: #f2ebe2; 
+    padding: 10px;
+    width: fit-content;
+  }
+
+  .left h2 {
+    color: #ffff;
+  }

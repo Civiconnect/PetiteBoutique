@@ -1,0 +1,77 @@
+/* CSS Reset */
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+    height: 100%;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+
+  body {
+    height: 100%;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+/* Fonts */
+@import url('https://fonts.cdnfonts.com/css/kaisei-harunoumi');
+
+p, a, li, span, input, textarea, select, button, h1, h2, h3, h4, h5 {
+  font-family: 'Kaisei HarunoUmi', serif;
+}
+
+/* Navbar */
+.navbar {
+  position: sticky;
+  top: 0px;
+  background-color: #f2ebe2;
+  color: black;
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  padding-top: 20px;
+  padding-bottom:20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  align-items: center;
+  font-size: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+    margin-bottom: -10px;
+    margin-top: -10px;
+    margin-right: auto;
+}
+
+.logo img {
+    width: 40px;
+}
+
+.current {
+  font-weight: bold;
+}
+

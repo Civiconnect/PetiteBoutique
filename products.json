@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Double Breasted Belted Trench Coat",
+        "price": "36.00",
+        "front": "/images/products/brown front.webp",
+        "back": "/images/products/brown back.webp"
+    },
+    {
+        "name": "Open Front Belted Trench Coat",
+        "price": "37.00",
+        "front": "/images/products/black front.webp",
+        "back": "/images/products/black back.webp"
+    },
+    {
+        "name": "Slant Pockets Double Breated Belted Trench Coat",
+        "price": "46.00",
+        "front": "/images/products/beige front.webp",
+        "back": "/images/products/beige back.webp"
+    },
+    {
+        "name": "Drop Shoulder Button Up Shirt",
+        "price": "28.00",
+        "front": "/images/products/shirt front.webp",
+        "back": "/images/products/shirt back.webp"
+    },
+    {
+        "name": "Solid High Waist Straight Leg Pants",
+        "price": "27.00",
+        "front": "/images/products/pant front.webp",
+        "back": "/images/products/pant back.webp"
+    },
+    {
+        "name": "Solid Drop Shoulder Shirt & Shorts Set",
+        "price": "27.00",
+        "front": "/images/products/set front.webp",
+        "back": "/images/products/set back.webp"
+    }
+]
